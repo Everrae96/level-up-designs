@@ -1,0 +1,55 @@
+@charset "utf-8";
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+	padding-right: 82px;
+}
+.buttonsearch {
+
+
+}
+.ordernow {
+	border: thick groove black;
+	background-color: #A5A5A5;
+}
+.jumbotron.text-center .lead {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-right: 29px;
+	padding-left: 22px;
+	color: black;
+}
+.jumbotron.text-center .lead.text-center .btn.btn-lg.text-center.ordernow {
+	color: black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.carousel-inner .carousel-item.active img {
+	width: 200px;
+	height: 200px;
+}
+#carouselExampleIndicators1 .carousel-inner .carousel-item.active {
+	background-color: white;
+}
+.spiderman   {
+	border: thick groove black;
+}
+.eleven {
+	border: thick groove black;
+}
+.jumbotron.text-center {
+	background-color: #7CAA24;
+}
+
+
+
+
+
+
+.jumbotron.text-center .display-4 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+.search {
+
+}
+.search {
+}
